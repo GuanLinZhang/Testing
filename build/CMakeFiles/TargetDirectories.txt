@@ -1,0 +1,3 @@
+/home/ec2-user/dbms/Q7/build/CMakeFiles/rebuild_cache.dir
+/home/ec2-user/dbms/Q7/build/CMakeFiles/Project_tst.dir
+/home/ec2-user/dbms/Q7/build/CMakeFiles/edit_cache.dir

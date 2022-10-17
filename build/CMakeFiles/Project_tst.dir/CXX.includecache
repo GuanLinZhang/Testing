@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/Formula-test.cpp
+gtest/gtest.h
+/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/gtest/gtest.h
+Formula.h
+/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/Formula.h
+
+/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/main.cpp
+gtest/gtest.h
+/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/gtest/gtest.h
+

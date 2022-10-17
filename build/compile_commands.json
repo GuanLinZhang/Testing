@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ec2-user/dbms/Q7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Project_tst.dir/Formula-test.o -c /home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/Formula-test.cpp",
+  "file": "/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/Formula-test.cpp"
+},
+{
+  "directory": "/home/ec2-user/dbms/Q7/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Project_tst.dir/main.o -c /home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/main.cpp",
+  "file": "/home/ec2-user/dbms/Q7/cpp/ExampleProject/tst/main.cpp"
+}
+]

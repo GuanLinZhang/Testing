@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Project_tst.dir/Formula-test.o CMakeFiles/Project_tst.dir/main.o -o Project_tst  -lProject_lib -lgtest 
